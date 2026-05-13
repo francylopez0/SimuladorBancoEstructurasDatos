@@ -41,6 +41,4 @@ Utilizada para guardar el historial de transacciones y permitir deshacer operaci
 
 ---
 
-## Autor
-
 Francy Lopez
