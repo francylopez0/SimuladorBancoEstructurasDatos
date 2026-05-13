@@ -1,0 +1,14 @@
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\bin\Debug\net10.0\SimuladorBanco.exe
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\bin\Debug\net10.0\SimuladorBanco.deps.json
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\bin\Debug\net10.0\SimuladorBanco.runtimeconfig.json
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\bin\Debug\net10.0\SimuladorBanco.dll
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\bin\Debug\net10.0\SimuladorBanco.pdb
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.AssemblyInfoInputs.cache
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.AssemblyInfo.cs
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.dll
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\refint\SimuladorBanco.dll
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.pdb
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.genruntimeconfig.cache
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\ref\SimuladorBanco.dll
