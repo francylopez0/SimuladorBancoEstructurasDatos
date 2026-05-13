@@ -58,7 +58,9 @@ public class ColaAtencion
 
         if (actual == null)
         {
-            Console.WriteLine("No hay clientes en espera.");
+           Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("⚠ No hay clientes en cola.");
+Console.ResetColor();
             return;
         }
 

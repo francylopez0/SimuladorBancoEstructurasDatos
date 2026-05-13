@@ -41,7 +41,9 @@ while (true)
 
         if (registrado)
         {
-            Console.WriteLine("Cliente registrado correctamente.");
+           Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("✔ Cliente registrado correctamente.");
+Console.ResetColor();
         }
         else
         {
@@ -100,7 +102,9 @@ while (true)
 
         if (atendido == null)
         {
-            Console.WriteLine("No hay clientes en espera.");
+           Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("⚠ sin clientes en espera.");
+Console.ResetColor();
         }
         else
         {
