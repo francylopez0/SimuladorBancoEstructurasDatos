@@ -39,6 +39,10 @@ public class Banco
         return clientes.BuscarPorIdentificacion(identificacion);
     }
 
+public Cliente? BuscarClientePorCuenta(string cuenta)
+{
+    return clientes.BuscarPorCuenta(cuenta);
+}
     public int TotalClientes()
     {
         return clientes.Contar();
