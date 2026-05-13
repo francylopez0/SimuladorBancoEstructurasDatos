@@ -21,7 +21,7 @@ while (true)
     Console.Write("Seleccione una opcion: ");
     string opcion = Console.ReadLine() ?? "";
 
-    // ================= REGISTRAR CLIENTE =================
+    // REGISTRAR CLIENTE 
 
     if (opcion == "1")
     {
@@ -49,14 +49,14 @@ while (true)
         }
     }
 
-    // ================= LISTAR =================
+    //  LISTAR 
 
     else if (opcion == "2")
     {
         banco.MostrarClientes();
     }
 
-    // ================= BUSCAR =================
+    //  BUSCAR 
 
     else if (opcion == "3")
     {
@@ -75,7 +75,7 @@ while (true)
         }
     }
 
-    // ================= COLA =================
+    //  COLA 
 
     else if (opcion == "4")
     {
@@ -109,7 +109,7 @@ while (true)
         }
     }
 
-    // ================= DEPOSITO =================
+    //DEPOSITO
 
     else if (opcion == "6")
     {
@@ -131,7 +131,7 @@ while (true)
         }
     }
 
-    // ================= RETIRO =================
+    //RETIRO 
 
     else if (opcion == "7")
     {
@@ -145,15 +145,17 @@ while (true)
 
         if (realizado)
         {
-            Console.WriteLine("Retiro realizado.");
+            Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("✔ Retiro realizado correctamente.");
+Console.ResetColor();
         }
         else
-        {
-            Console.WriteLine("No se pudo realizar el retiro.");
-        }
+        Console.ForegroundColor = ConsoleColor.Red;
+Console.WriteLine("✘ No se pudo realizar el retiro. Fondos insuficientes o cuenta invalida.");
+Console.ResetColor();
     }
 
-    // ================= CONSULTAR SALDO =================
+    // CONSULTAR SALDO 
 
     else if (opcion == "8")
     {
@@ -172,7 +174,7 @@ while (true)
         }
     }
 
-    // ================= DESHACER =================
+    // DESHACER 
 
     else if (opcion == "9")
     {
@@ -188,28 +190,28 @@ while (true)
         }
     }
 
-    // ================= MOSTRAR COLA =================
+    //  MOSTRAR COLA 
 
     else if (opcion == "10")
     {
         banco.MostrarCola();
     }
 
-    // ================= TOTAL CLIENTES =================
+    // TOTAL CLIENTES
 
     else if (opcion == "11")
     {
         Console.WriteLine($"Total clientes: {banco.TotalClientes()}");
     }
 
-    // ================= TOTAL DINERO =================
+    // TOTAL DINERO
 
     else if (opcion == "12")
     {
         Console.WriteLine($"Total dinero banco: {banco.TotalDineroBanco():C0}");
     }
 
-    // ================= SALIR =================
+    // SALIR 
 
     else if (opcion == "13")
     {
@@ -224,7 +226,7 @@ while (true)
 }
 
 
-// ================= METODO AUXILIAR =================
+// = METODO AUXILIAR 
 
 double LeerDouble()
 {

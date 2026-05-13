@@ -12,3 +12,4 @@ C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\De
 C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.pdb
 C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.genruntimeconfig.cache
 C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\ref\SimuladorBanco.dll
+C:\Users\Usuario\Escritorio\SimuladorBancoEstructurasDatos\SimuladorBanco\obj\Debug\net10.0\SimuladorBanco.sourcelink.json
